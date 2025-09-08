@@ -19,7 +19,7 @@ const proto = {
 ...require('./SyncAction/SyncAction').SyncAction,
 ...require('./UserPassword/UserPassword').UserPassword,
 ...require('./VnameCert/VnameCert').VnameCert,
-...require('./Wa6/Wa6').Wa6,
+//...require('./Wa6/Wa6').Wa6,
 ...require('./Web/Web').Web
 }
 module.exports = {
