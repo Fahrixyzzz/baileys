@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js->=20.0.0-green?logo=node.js" alt="Node.js"></a>
-  <a href="https://www.npmjs.com/package/Fahrixyzzz"><img src="https://img.shields.io/npm/v/Fahrixyzzz?color=blue&label=naruyaizumi&logo=npm" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/Fahrixyzzz"><img src="https://img.shields.io/npm/v/Fahrixyzzz?color=blue&label=Fahrixyzzz&logo=npm" alt="npm version"></a>
 </p>
 
 Baileys adalah library TypeScript berbasis WebSocket untuk berinteraksi dengan WhatsApp Web API.
