@@ -1,17 +1,17 @@
 {
-  "name": "naruyaizumi",
+  "name": "Fahrixyzzz",
   "version": "25.9.1",
   "description": "baileys whatsapp-api",
   "keywords": [
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/naruyaizumi/baileys",
+  "homepage": "https://github.com/Fahrixyzzz/baileys",
   "repository": {
-    "url": "https://github.com/naruyaizumi/baileys"
+    "url": "https://github.com/Fahrixyzzz/baileys"
   },
   "license": "MIT",
-  "author": "Naruya Izumi",
+  "author": "Fahrixyzzz",
   "main": "lib/index.js",
   "files": [
     "lib/*",
